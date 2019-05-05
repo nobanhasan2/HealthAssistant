@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">HIproject</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home_des">Sometimes, it’s a matter of having the right information at the right time to make the right decision. In healthcare, that’s all of the time. Quippe Clinical Lens provides clinicians with highly targeted clinical information to immediately close care gaps while the patient is still in front of them, leading to optimal health outcomes at the lowest cost of care.</string>
+
+    <string name="title_doctor_sign_in_text">Sign in As Doctor</string>
+    <string name="title_patient_sign_in_text">Sign in As Patient</string>
+
+
+    <string-array name="district">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+    </string-array>
+    <string name="title_activity_maps2">Map</string>
+
+    <string-array name="name_of_sector">
+        <item>Allergy And Immunology</item>
+        <item>Anesthesia</item>
+        <item>Cardiology</item>
+        <item>Colorectal Surgery</item>
+        <item>Dentistry</item>
+        <item>Dermatology</item>
+        <item>ENT</item>
+        <item>Gastroenterology</item>
+    </string-array>
+
+    <string-array name="gender_list">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="name_of_blood_group">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+</resources>
